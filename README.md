@@ -229,6 +229,6 @@ Check these first:
 
 ## Author
 
-Devansh Seth, Kartikeya Singh
+Devansh Seth, Kartikeya Singh, Vishwas Srivastava
 
 GitHub: https://github.com/Devansh7617
