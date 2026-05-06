@@ -413,7 +413,7 @@ export default function App() {
       <nav className="topnav">
         <div className="topnav-brand">
           <div className="brand-icon"><Mic size={16} color="#fff" strokeWidth={2.5} /></div>
-          <span className="brand-name">MeetingIQ</span>
+          <span className="brand-name">Meeting Intelligence</span>
           <span className="brand-badge">AI</span>
         </div>
         <div className="topnav-actions">
